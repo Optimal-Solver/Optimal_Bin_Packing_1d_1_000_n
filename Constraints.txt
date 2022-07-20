@@ -1,0 +1,4 @@
+Capacity = n
+
+K     = ceil(sum(Multiset) / Capacity)
+Limit = ceil(sizeof(Multiset) / K)
